@@ -1,5 +1,6 @@
-// Java program to check whether given line is pangram or not
-// Pangrams are sentences constructed by using every letter of the alphabet at least once
+// Java program to check whether given line is pangram or not.
+// Pangrams are sentences constructed by using every letter of the alphabet at least once.
+// Appeared in HackerRank as a practice question.
 
 import java.util.*;
 
